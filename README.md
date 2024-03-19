@@ -11,3 +11,9 @@
 <div align = "center">
 <img src = "https://github.com/JuS0l/AtividadePAM/assets/150742951/ce8a73ce-d4ae-433f-bcc2-e6783ca0d256.png" width = "400px" />
 </div> 
+
+<p>Agora nós vamos começar a configuração do nosso git bash. Primeiro nós clicamos com o botão direito na pasta e abrimos o git bash, depois utilizamos o comando <b>git init</b> para inicializar o git</p>
+<div align = "center">
+<img src = "https://github.com/JuS0l/AtividadePAM/assets/150742951/b997e0e1-9a43-4b3b-b846-9d9ff1408b81.png" width = "700px" />
+</div> 
+
