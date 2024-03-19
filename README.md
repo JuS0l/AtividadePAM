@@ -19,5 +19,15 @@
 
 <p>Depois de utilizar o git init nós vamos configurar o git com a nossa conta no GitHub colocando o nosso nome e o email que a conta está cadastrada utilizando os comando <b>git config --global user.name</b>para colocar o nome e <b>git config --global user.email "" </b><para o email</p>
 <div align = "center">
-<img src = "https://github.com/JuS0l/AtividadePAM/assets/150742951/033027a6-f818-470e-9aac-3ec53b80695c" width = "700px" />
+<img src = "https://github.com/JuS0l/AtividadePAM/assets/150742951/033027a6-f818-470e-9aac-3ec53b80695c.png" width = "700px" />
+</div> 
+
+<p>Agora precisamos conectar nossa pasta com o nosso repositório. Para isso nós utilizamos o <b>git remote add origin link</b>, no "link" nós colocamos o link do repositório e o <b>git pull --allow-unrelated-histories link</b> para mesclar o projeto</p>
+<div align = "center">
+<img src = "https://github.com/JuS0l/AtividadePAM/assets/150742951/033027a6-f818-470e-9aac-3ec53b80695c.png" width = "700px" />
+</div> 
+
+<p>Nesse momento nós criamos o nosso projeto dentro da pasta criada anteriormente, que foi um site simples apenas para demonstração</p>
+<div align = "center">
+<img src = "https://github.com/JuS0l/AtividadePAM/assets/150742951/182447de-01a9-4bcf-8b7d-6db22844ab6e.png" width = "700px" /><img src = "https://github.com/JuS0l/AtividadePAM/assets/150742951/bb372022-acff-4377-808e-2ed370923506.png" width = "700px" />
 </div> 
