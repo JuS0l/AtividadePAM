@@ -17,3 +17,7 @@
 <img src = "https://github.com/JuS0l/AtividadePAM/assets/150742951/b997e0e1-9a43-4b3b-b846-9d9ff1408b81.png" width = "700px" />
 </div> 
 
+<p>Depois de utilizar o git init nós vamos configurar o git com a nossa conta no GitHub colocando o nosso nome e o email que a conta está cadastrada utilizando os comando <b>git config --global user.name</b>para colocar o nome e <b>git config --global user.email "" </b><para o email</p>
+<div align = "center">
+<img src = "https://github.com/JuS0l/AtividadePAM/assets/150742951/033027a6-f818-470e-9aac-3ec53b80695c" width = "700px" />
+</div> 
