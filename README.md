@@ -36,3 +36,5 @@
 <div align = "center">
 <img src = "https://github.com/JuS0l/AtividadePAM/assets/150742951/face9a86-aeb5-4093-a92b-bb96014d8ea6.png" width = "700px"/><img src = "https://github.com/JuS0l/AtividadePAM/assets/150742951/1fe81cdc-8e65-4cdc-ade4-855cd3c60794.png" width = "700px"/><img src = "https://github.com/JuS0l/AtividadePAM/assets/150742951/3e4ad42c-6675-4cf2-b4d1-624a555279c0.png" width = "700px" />
 </div> 
+
+Após tudo isso seu projeto está criado e upado no GitHub. 
