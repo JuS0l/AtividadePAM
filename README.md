@@ -31,3 +31,8 @@
 <div align = "center">
 <img src = "https://github.com/JuS0l/AtividadePAM/assets/150742951/182447de-01a9-4bcf-8b7d-6db22844ab6e.png" width = "700px" /><img src = "https://github.com/JuS0l/AtividadePAM/assets/150742951/bb372022-acff-4377-808e-2ed370923506.png" width = "700px" />
 </div> 
+
+<p>Agora nós vamos adicionar as mudanças que nós fizemos na pasta utilizando o <b>git add</b>e comitar com o <b>git commit -m "aqui coloca o nome que quiser dar ao commit"</b>para salvar as alterações que nós fizemos. Também utilizamos o <b>git push -u origin main</b>para alterar subir o projeto no repositório e fazer com que o commit que nós fizemos apareça</p>
+<div align = "center">
+<img src = "https://github.com/JuS0l/AtividadePAM/assets/150742951/face9a86-aeb5-4093-a92b-bb96014d8ea6.png" width = "700px"/><img src = "https://github.com/JuS0l/AtividadePAM/assets/150742951/1fe81cdc-8e65-4cdc-ade4-855cd3c60794.png" width = "700px"/><img src = "https://github.com/JuS0l/AtividadePAM/assets/150742951/3e4ad42c-6675-4cf2-b4d1-624a555279c0.png" width = "700px" />
+</div> 
